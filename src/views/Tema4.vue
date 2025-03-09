@@ -5,7 +5,27 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Acuerdos comerciales
+
+    separador
+    #t_4_1.titulo-segundo.mb-5
+      h2 4.1. Acuerdos comerciales con clientes
+
+
+
+
+    separador
+    #t_4_2.titulo-segundo.mb-5
+      h2 4.2.	Acuerdos comerciales con proveedores
+
+
+      
+    separador
+    #t_4_3.titulo-segundo.mb-5
+      h2 4.3. Procedimiento
+
+
+
 
 
 </template>

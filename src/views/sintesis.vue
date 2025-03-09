@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
+    p El diagrama de flujo describe la Gestión y condiciones de devolución de mercancías y objetos, abarcando desde la definición de las devoluciones, sus características, causales y tipos, hasta la atención al cliente en el manejo de quejas y reclamos. Se detallan aspectos como la especificación de los productos, las políticas de devolución, los acuerdos comerciales con clientes y proveedores, la documentación necesaria, incluyendo el proceso de devolución y recepción, y la importancia de los informes sobre devoluciones para la toma de decisiones. Todo esto con el fin de ofrecer una visión integral de la gestión de devoluciones, asegurando un proceso eficiente y satisfactorio tanto para la empresa como para el cliente.
     
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.png", alt="El esquema aborda el diseño y patronaje en marroquinería, destacando cuatro áreas clave: diseño y modelado, desarrollo de productos en cuero, herramientas visuales como el Mood Board e innovación y tendencias.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
