@@ -12,10 +12,10 @@
     .row.justify-content-center.align-items-center
       .col-lg-1.col-md-2.col-4.mb-3
         img.img-a.img-t(src='@/assets/curso/tema1/1.svg', alt='tema1')(data-aos="fade-down")
-      .col-lg-11.col-md-10.mb-3
+      .col-lg-11.col-md-10.mb-0
         p Las organizaciones que realizan transacciones comerciales, ya sea al por mayor o al detalle, es  esencial contar con políticas claras y definidas para la gestión de devoluciones de mercancías, estas políticas establecen los pasos a seguir en caso de reclamaciones o devoluciones, y deben estar alineadas con los acuerdos comerciales previos.
     
-    .row.fondo1.align-items-center.p-2.mb-0(data-aos="fade-down")
+    .row.fondo1.align-items-center.p-2.p-md-0.p-lg-2.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
         .row.justify-content-center
         
