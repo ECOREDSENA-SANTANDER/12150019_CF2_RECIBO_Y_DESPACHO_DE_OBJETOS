@@ -36,7 +36,7 @@
       h4.mb-0.ps-5.pe-5 Proceso de recepción y manejo de la devolución
 
     .row.justify-content-center.align-items-center.mb-2
-      .col-lg-3.col-md-6.col-9.mb-4
+      .col-lg-3.col-md-6.col-7.mb-4
         img(src='@/assets/curso/tema5/4.png', alt='')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
@@ -67,7 +67,7 @@
       .col-lg-4.col-md-7.col-9.mb-4.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/tema1/21.png', alt='')
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-        TabsA.color-acento-botones
+        TabsA.color-acento-botones.mod
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Informar al proveedor")
             p.mb-0 El cliente debe comunicar al proveedor la intención de devolver los productos, indicando las razones de la devolución.
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Coordinar la devolución")

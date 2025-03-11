@@ -143,22 +143,150 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Manual de devoluciones y retiro de mercancía.',
+      referencia:
+        'Comercial mexicana. (2015). manual de devoluciones y retiro de mercancía.',
+      tipo: 'Manual',
+      link: 'http://www.provecomer.com.mx/prvd/manual_devol.pdf',
+    },
+    {
+      tema:
+        'Estructuración del proceso de devoluciones para la recuperación de su valor económico en la empresa Rta Design Planta Yumbo.',
+      referencia:
+        'Bastidas Erazo, y. m. (2012). Estructuración del proceso de devoluciones para la recuperación de su valor económico en la empresa rta design-planta yumbo (by universidad autónoma de occidente).',
+      tipo: 'PDF',
+      link: 'https://red.uao.edu.co/bitstream/10614/3040/1/TID00964.pdf',
+    },
+    {
+      tema:
+        'Gestión de la calidad. Satisfacción del cliente. Directrices para el tratamiento de las quejas en las organizaciones.',
+      referencia:
+        'Gestión de la calidad. Satisfacción del cliente. Directrices para el tratamiento de las quejas en las organizaciones. (2004).',
+      tipo: 'PDF',
+      link:
+        'https://ioc.xtec.cat/materials/FP/Recursos/fp_adi_m08_/web/fp_adi_m08_htmlindex/WebContent/u3/media/iso_10002_2004.pdf',
+    },
+    {
+      tema:
+        'Manual para el manejo de los acuerdos comerciales en procesos de contratación.',
+      referencia:
+        'Colombia Compra Eficiente. (n.d.). Manual para el manejo de los Acuerdos Comerciales en Procesos de Contratación.',
+      tipo: 'PDF',
+      link:
+        'https://www.colombiacompra.gov.co/sites/default/files/manuales/cce_manual_acuerdos_comerciales_web.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Aclaración',
+      significado:
+        'Proceso de resolver dudas e inquietudes durante la negociación para evitar malentendidos futuros.',
+    },
+    {
+      termino: 'Acuerdos comerciales',
+      significado:
+        'Contratos entre dos o más partes que establecen los términos y condiciones para realizar intercambios de bienes o servicios, buscando beneficios mutuos.',
+    },
+    {
+      termino: 'Atención a clientes',
+      significado:
+        'Servicio proporcionado por una empresa para asistir, resolver dudas o problemas de los clientes, garantizando una experiencia de compra satisfactoria y construyendo relaciones positivas.',
+    },
+    {
+      termino: 'Atención',
+      significado:
+        'Proceso de interactuar con los clientes para resolver sus dudas, problemas o necesidades, garantizando una experiencia positiva.',
+    },
+    {
+      termino: 'Capacitación',
+      significado:
+        'Proceso continuo de formación del personal para asegurar que esté preparado para brindar una atención adecuada y resolver eficazmente quejas y reclamos.',
+    },
+    {
+      termino: 'Condiciones',
+      significado:
+        'Términos establecidos entre las partes, como precio, plazo de entrega, y forma de pago, que deben quedar claros en el acuerdo.',
+    },
+    {
+      termino: 'Devoluciones',
+      significado:
+        'Proceso mediante el cual un cliente regresa un producto adquirido, generalmente debido a insatisfacción o error en la compra.',
+    },
+    {
+      termino: 'Documentación',
+      significado:
+        'Conjunto de papeles o archivos que contienen información relevante sobre transacciones comerciales, devoluciones, acuerdos o productos, y que respaldan procesos legales o administrativos.',
+    },
+    {
+      termino: 'Entrega',
+      significado:
+        'Proceso de entrega de productos, que puede ser en una única ocasión o en varias entregas parciales, según lo acordado previamente.',
+    },
+    {
+      termino: 'Lugar',
+      significado:
+        'Ubicación donde los productos deben ser entregados, especificada en el acuerdo comercial.',
+    },
+    {
+      termino: 'Procedimiento',
+      significado:
+        'Pasos definidos que se deben seguir en la negociación y recepción de productos, incluyendo devoluciones si es necesario.',
+    },
+    {
+      termino: 'Quejas',
+      significado:
+        'Manifestación de insatisfacción del cliente debido a factores ajenos al producto, como el trato recibido o la actitud del personal.',
+    },
+    {
+      termino: 'Reclamos',
+      significado:
+        'Inconformidades del cliente respecto al producto o servicio adquirido, que requieren una respuesta inmediata y solución por parte de la empresa.',
+    },
+    {
+      termino: 'Revisión',
+      significado:
+        'Evaluación detallada de las cotizaciones recibidas de los proveedores para garantizar que se cumplan los requisitos.',
+    },
+    {
+      termino: 'Satisfacción',
+      significado:
+        'Estado en el que el cliente se siente conforme con los productos, servicios y atención recibidos por la empresa.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Balli Morales, B. (s.f.). La logística Reversa o Inversa, Aporte al control de devoluciones y residuos en la gestión de la cadena de abastecimiento. (Legiscomex, Ed.) Bogotá.',
+      link:
+        'http://www.legiscomex.com/BancoMedios/Archivos/la%20logistica%20reversa%20o%20inversa%20basilio%20balli.pdf',
+    },
+    {
+      referencia: 'Forero, C. (2010). Las devoluciones: La logística inversa.',
+      link: 'http://devolucioneslogisticainversa.blogspot.com.co/',
+    },
+    {
+      referencia: 'González, H. (2010). Devolución de mercancía.',
+      link:
+        'http://hildamarinagonzalez2010.blogspot.com.co/2010/09/causas-de-devoluciones.html',
+    },
+    {
+      referencia: 'CreceNegocios. (2013). La política de devoluciones.',
+      link: 'http://www.crecenegocios.com/la-politica-de-devoluciones/',
+    },
+    {
+      referencia: 'Delgado, G. (2013). Clasificación de proveedores.',
+      link:
+        'http://logisticareciboydespacho.blogspot.com.co/2013/03/clasificacion- de-proveedores.html',
+    },
+    {
+      referencia: 'GestioPolis. (2002) ¿Qué es un acuerdo comercial?',
+      link: 'https://www.gestiopolis.com/que-es-un-acuerdo-comercial/',
+    },
+    {
+      referencia:
+        'Trejos, A. (2009). Instrumentos para la evaluación del impacto de acuerdos comerciales internacionales: aplicación para países pequeños en América latina. (Cepal, Ed.) México.',
+      link:
+        'http://repositorio.cepal.org/bitstream/handle/11362/4895/S2009441_es.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: [
@@ -181,39 +309,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Esperanza Cardona Grisales',
-          cargo: 'Instructora',
-          centro:
-            'Centro de Gestión Tecnológica de Servicios CGTS - Regional Valle',
+          nombre: 'Ingrid Criollo García',
+          cargo: 'Experta Temática',
+          centro: 'Centro de Comercio y Servicio - Regional Tolima',
         },
         {
-          nombre: 'Jaime Pérez Posada',
-          cargo: 'Instructor',
-          centro: 'Comercio - Regional Antioquia',
-        },
-        {
-          nombre: 'Samuel Pinilla Hurtado',
-          cargo: 'Instructor',
-          centro: 'Comercio - Regional Antioquia',
-        },
-        {
-          nombre: 'Zvi Daniel Grosman Landáez',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro Agropecuario La Granja - Regional Tolima',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Carolina Jiménez Suescún',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -223,8 +324,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Julian Fernando Vanegas Vega',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'DiseñadorA de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -243,7 +344,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

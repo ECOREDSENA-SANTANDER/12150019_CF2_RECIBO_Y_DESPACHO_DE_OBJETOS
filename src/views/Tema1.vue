@@ -260,7 +260,7 @@
         .col-lg-4.col-md-7.col-9.mb-4.mb-lg-0(data-aos="fade-right")
           img(src='@/assets/curso/tema1/21.png', alt='')
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          TabsA.color-acento-botones
+          TabsA.color-acento-botones.mod
             .tarjeta.color-acento-botones.bg5.p-4(titulo="Estado del producto")
               p.mb-0 #[b Estado del producto:] la devolución puede proceder si el producto presenta algún defecto, avería o no cumple con las expectativas del cliente.
             .tarjeta.color-acento-botones.bg5.p-4(titulo="Plazo")
@@ -315,7 +315,7 @@
               p.mb-4 Son aquellos que, aunque pueden variar en ciertos aspectos como color, talla o marca, mantienen la misma calidad y características generales.
             .row.col-xl-11.m-auto(titulo="Devolución por falta de espacio del cliente")
               p.mb-4 Este acuerdo se establece entre el proveedor y el cliente, y determina que, en caso de que el cliente no tenga espacio suficiente para almacenar los productos, se especificará quién asumirá el costo del retorno de la mercancía.
-        .col-lg-3.col-md-7.col-9
+        .col-lg-3.col-md-7.col-8
           img(src='@/assets/curso/tema1/22.png', alt='')
            
 

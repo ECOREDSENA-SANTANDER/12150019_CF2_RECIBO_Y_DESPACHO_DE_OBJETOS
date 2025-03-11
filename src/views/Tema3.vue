@@ -13,9 +13,9 @@
       .col-lg-7
         p.mb-3 Contar con una política de devolución bien definida es un pilar fundamental para que las organizaciones gestionen de manera clara y eficaz la relación con sus clientes, estas políticas deben cubrir todos los aspectos que puedan surgir durante el proceso de devolución, garantizando transparencia y seguridad para ambas partes, tanto para la empresa como para el consumidor; una política clara también establece las expectativas del cliente y evita malentendidos que puedan generar insatisfacción.
         .row.justify-content-center.mb-0
-          .col-lg-8.col-md-9
+          .col-lg-8.col-md-9.mb-3
             p.mb-0 El tener una política de devolución no implica que las empresas anticipen devoluciones masivas de productos, al contrario, su propósito es ser una herramienta de control que facilite la toma de decisiones, optimice el manejo de situaciones imprevistas y permita abordar las devoluciones de manera ordenada, además, fomenta una mejor organización interna, pues los empleados sabrán cómo manejar correctamente las devoluciones y qué opciones tienen disponibles.
-          .col-lg-4.col-md-3.col-4
+          .col-lg-4.col-md-3.col-7
             img(src='@/assets/curso/tema3/2.svg', alt='tema1')(data-aos="fade-down")
 
     .bg1.p-4.mb-4

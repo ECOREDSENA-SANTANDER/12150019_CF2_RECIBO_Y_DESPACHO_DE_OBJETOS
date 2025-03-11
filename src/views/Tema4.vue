@@ -57,7 +57,7 @@
     p.mb-4 Los clientes son la razón de ser de las organizaciones, por lo que es esencial que las empresas comprendan y atiendan sus requerimientos y expectativas para poder ofrecer los productos o servicios que realmente necesitan. Los acuerdos comerciales con los clientes dependen en gran medida de la clasificación que se les asigne, la cual se establece según diversos factores. A continuación, se presentan las categorías más comunes:
 
     .row.justify-content-center.align-items-center.mb-2
-      .col-lg-3.col-md-6.col-9.mb-4
+      .col-lg-3.col-md-6.col-7.mb-4
         img(src='@/assets/curso/tema4/2.png', alt='')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")

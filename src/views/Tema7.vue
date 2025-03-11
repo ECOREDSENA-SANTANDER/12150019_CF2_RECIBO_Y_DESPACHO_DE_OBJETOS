@@ -29,7 +29,7 @@
             h4.mb-0.ps-5.pe-5 Manejo de quejas y reclamos
           p.mb-4 El manejo adecuado de quejas y reclamos requiere que las organizaciones cuenten con personal capacitado y especializado en la atención de estos temas, este personal debe recibir formación continua para poder ofrecer respuestas oportunas y satisfactorias a los inconvenientes planteados por los clientes.
           p.mb-4 Algunas empresas disponen de un departamento exclusivo para el servicio al cliente, pero todos los colaboradores deben estar preparados para proporcionar una respuesta inicial o dirigir al cliente hacia la persona correspondiente que pueda resolver su inquietud.
-        .col-lg-3.col-md-5.col-9
+        .col-lg-3.col-md-5.col-7
           img.img-a.img-t(src='@/assets/curso/tema7/3.svg', alt='tema1')(data-aos="fade-down")
 
       .row.fondo5.align-items-center.p-2.mb-0(data-aos="fade-down")
@@ -130,9 +130,9 @@
 
       .row.justify-content-center(data-aos="fade-down").mb-0
         .col-lg-8.mb-4
-          .bg14.p-5
-            p.mb-4.ps-5 Una manera de minimizar la reclamaciones, es que la organización con base en los informes, genere acciones correctivas, preventivas y de mejora, y que estas acciones sean comunicadas al personal que se encuentra directamente relacionado con el proceso. Por lo tanto, en resumen, para atender un reclamo se debe:
-            ul.lista-ul.mb-0.ps-5
+          .bg14.p-2.p-lg-5.p-md-4.pe-4.pe-lg-5
+            p.mb-4.ps-4.ps-lg-5.mt-4 Una manera de minimizar la reclamaciones, es que la organización con base en los informes, genere acciones correctivas, preventivas y de mejora, y que estas acciones sean comunicadas al personal que se encuentra directamente relacionado con el proceso. Por lo tanto, en resumen, para atender un reclamo se debe:
+            ul.lista-ul.mb-0.ps-4.ps-lg-5.pe-4.pe-lg-5
               li.d-flex.mb-0
                 i.fas.fa-location-dot.t2
                 p.mb-0 Escuchar al cliente.
@@ -148,7 +148,7 @@
               li.d-flex.mb-0
                 i.fas.fa-location-dot.t2
                 p.mb-0 Aceptar si discusión la reclamación.
-            .row.justify-content-center.ps-5
+            .row.justify-content-center.ps-4.ps-lg-5
               .col-lg-10.mb-4
                 ul.lista-ul.mb-0 
                   li.d-flex.mb-0
@@ -158,7 +158,7 @@
                     i.fas.fa-location-dot.t2
                     p.mb-0 Asegurar que la respuesta dada al cliente la genere satisfacción.
               .col-lg-2
-                img.img-a.img-t(src='@/assets/curso/tema7/12.svg' alt='')
+                img.img-a.img-t.mb-5(src='@/assets/curso/tema7/12.svg' alt='')
 
 
 
