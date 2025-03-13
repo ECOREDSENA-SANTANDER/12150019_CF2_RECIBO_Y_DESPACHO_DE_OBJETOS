@@ -17,17 +17,17 @@
           p.mb-0 La correcta gestión de las devoluciones no solo afecta los inventarios, sino que también tiene implicaciones financieras significativas, los ajustes necesarios en las cuentas deben ser realizados de acuerdo con el tipo de devolución, para asegurar la correcta conciliación de los movimientos y mantener la precisión en los registros contables y financieros, es fundamental que estos informes sean precisos y oportunos, facilitando así el análisis de las devoluciones y su impacto en los procesos operativos y financieros de la empresa.
 
       .titulo-sexto.color-secundario.mb-3
-          h5 Figura 6. 
-          | Informe registro de devoluciones
+        h5 Figura 6. 
+        | Informe registro de devoluciones
 
-      .row.fondo4.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
+      .row.fondo4.p-4.p-lg-5.p-md-3.mb-1(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12
           .row.justify-content-center 
           
           .row.justify-content-center.align-items-center
             .col-lg-11
-              img(src='@/assets/curso/tema6/3.png', alt='Diagrama de flujo que detalla el "Informe Registro de Devoluciones", incluyendo definiciones de devoluciones, tipos (proveedores, garantía, tienda, consumidor, clientes, mercancía), y políticas de gestión de devoluciones, con texto legible en cada sección.')
-          
+              img(src='@/assets/curso/tema6/3.svg', alt='Diagrama de flujo que detalla el "Informe Registro de Devoluciones", incluyendo definiciones de devoluciones, tipos (proveedores, garantía, tienda, consumidor, clientes, mercancía), y políticas de gestión de devoluciones, con texto legible en cada sección.')
+      figcaption.mb-5 Fuente. Mercadotecnia y comunicación corporativa 
       .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
         h4.mb-0.ps-5.pe-5 Tipos de informes
       

@@ -126,7 +126,7 @@
             p.mb-0 Documentación requerida por las aduanas de ambos países involucrados en la transacción.
     
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Procedimiento para realizar acuerdos comerciales con Clientes
+      h4.mb-0.ps-5.pe-5 Procedimiento para realizar acuerdos comerciales con clientes
     
     p.mb-4 Para formalizar los acuerdos comerciales con los clientes, se deben seguir los siguientes pasos generales:
 
@@ -137,7 +137,7 @@
           p(numero="2" titulo="Presentación y demostración de los productos") Si es necesario, se debe realizar una demostración del producto para asegurar que el cliente lo entienda y valore adecuadamente.
           p(numero="3" titulo="Atención a las preguntas del cliente") Resolver cualquier duda que pueda tener el cliente es crucial para establecer confianza.
           p(numero="4" titulo="Presentación de cotizaciones") Se deben incluir las condiciones comerciales de cada producto, tales como precios y condiciones de pago.
-          .row(numero="5" titulo="Presentación de cotizaciones")
+          .row(numero="5" titulo="Negociación de términos")
             .col-md-12.mb-4.mb-md-0
               p.mb-3 Se debe reunir al equipo con el cliente para definir los términos del acuerdo, en algunos casos, esto puede formalizarse únicamente con la emisión de una orden de pedido (o una orden de compra elaborada por el cliente). En cualquier caso, los documentos deben incluir:
               ul.lista-ul
@@ -335,7 +335,7 @@
                     p.mb-0 Condiciones comerciales (precio, forma de pago, plazos, entre otros).
                   li.d-flex.mb-0
                     i.fas.fa-location-dot
-                    p.mb-0 Condiciones comerciales (plazo y forma de pago): Establecer claramente las condiciones de pago, incluyendo el plazo y la forma de pago, para evitar confusiones o problemas en el futuro.
+                    p.mb-0 Condiciones comerciales (plazo y forma de pago): establecer claramente las condiciones de pago, incluyendo el plazo y la forma de pago, para evitar confusiones o problemas en el futuro.
               .col-lg-4.col-md-7
                 img(alt="" src="@/assets/curso/tema4/28.png")
             .row.justify-content-center.align-items-center.p-0.p-lg-4

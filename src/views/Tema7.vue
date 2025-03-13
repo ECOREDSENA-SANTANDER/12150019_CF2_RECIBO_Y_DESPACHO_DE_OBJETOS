@@ -18,10 +18,10 @@
                 img.img-a.img-t(src='@/assets/curso/tema7/2.svg', alt='tema1')(data-aos="fade-down")
               .col-lg-10.col-md-12
                 p.mb-0 La atención al cliente puede realizarse de varias maneras entre las que se pueden tener en cuenta las siguientes:
-            p.mb-0 #[b Personalmente:] En oficinas o puntos de información dependiendo el tipo de negocio.
+            p.mb-0 Personalmente: en oficinas o puntos de información dependiendo el tipo de negocio.
             p.mb-0 Por teléfono.
             p.mb-0 Por medio del correo electrónico.
-            p.mb-0 Por Chat en línea.
+            p.mb-0 Por chat en línea.
         
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9
@@ -118,7 +118,7 @@
             p(numero="1" titulo="Evaluación primaria del reclamo") Esta etapa consiste en conocer las razones del reclamo y determinar la acción a seguir, es esencial comprender de manera clara la naturaleza del reclamo para tomar decisiones adecuadas.
             p(numero="2" titulo="Investigación del reclamo") En esta fase, se investiga a fondo las causas que originaron la devolución o el reclamo, y se analiza por qué ocurrió la situación, esto ayuda a identificar el origen del problema y tomar medidas correctivas si es necesario.
             p(numero="3" titulo="Definición y entrega de la respuesta") La empresa debe proporcionar una respuesta a la reclamación en el menor tiempo posible, esta respuesta debe detallar las soluciones posibles y cómo se planea resolver el inconveniente de manera satisfactoria para el cliente.
-            p(numero="4" titulo="Acuerdo con el cliente sobre la respuesta") si el cliente no está conforme con la solución propuesta, es crucial revisar otras alternativas, en esta etapa, se debe solicitar la opinión del cliente para conocer sus expectativas y trabajar conjuntamente en encontrar la mejor solución. 
+            p(numero="4" titulo="Acuerdo con el cliente sobre la respuesta") Si el cliente no está conforme con la solución propuesta, es crucial revisar otras alternativas, en esta etapa, se debe solicitar la opinión del cliente para conocer sus expectativas y trabajar conjuntamente en encontrar la mejor solución. 
         .col-lg-6.col-md-7.col-9.mb-4
           img(src='@/assets/curso/tema7/9.png', alt='')
 
@@ -130,7 +130,12 @@
 
       .row.justify-content-center(data-aos="fade-down").mb-0
         .col-lg-8.mb-4
-          .bg14.p-2.p-lg-5.p-md-4.pe-4.pe-lg-5
+          .titulo-sexto.color-secundario.mb-0
+            h5 Figura 7. 
+            | Pautas para minimizar y atender reclamaciones
+      .row.justify-content-center(data-aos="fade-down").mb-0
+        .col-lg-8.mb-4
+          .bg14.p-2.p-lg-5.p-md-4.pe-4.pe-lg-5(,alt='Documento con pautas para minimizar y atender reclamaciones, enfatizando la importancia de acciones correctivas y la comunicación con el cliente.')
             p.mb-4.ps-4.ps-lg-5.mt-4 Una manera de minimizar la reclamaciones, es que la organización con base en los informes, genere acciones correctivas, preventivas y de mejora, y que estas acciones sean comunicadas al personal que se encuentra directamente relacionado con el proceso. Por lo tanto, en resumen, para atender un reclamo se debe:
             ul.lista-ul.mb-0.ps-4.ps-lg-5.pe-4.pe-lg-5
               li.d-flex.mb-0

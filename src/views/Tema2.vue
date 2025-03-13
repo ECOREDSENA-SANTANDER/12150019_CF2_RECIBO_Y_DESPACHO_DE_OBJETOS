@@ -51,12 +51,12 @@
     .row.justify-content-center.align-items-center
       .col-lg-8
         .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-          h4.mb-0.ps-5.pe-5 Características Psicológicas
+          h4.mb-0.ps-5.pe-5 Características psicológicas
         
         p.mb-5 Estas están relacionadas con la marca. A menudo, los consumidores recuerdan y se fidelizan con marcas específicas, lo que influye en sus decisiones de compra y preferencia a largo plazo.
 
         .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-          h4.mb-0.ps-5.pe-5 Características Químicas
+          h4.mb-0.ps-5.pe-5 Características químicas
         
         p.mb-4 Estas incluyen propiedades como la corrosión, las propiedades nutricionales, las propiedades absorbentes, entre otras, que son cruciales dependiendo del tipo de producto.
         p.mb-4 De esta manera, las especificaciones de los productos no solo cubren sus características físicas y funcionales, sino también aquellos elementos psicológicos y químicos que pueden determinar su éxito en el mercado.
@@ -87,7 +87,7 @@
     p.mb-5 Es importante también considerar las especificaciones de los productos, ya sea para el consumidor final o para consumidores industriales, en el caso de los productos destinados a la industria, como las materias primas, que permiten, a través de procesos de fabricación, crear objetos que satisfacen las necesidades específicas de ciertos clientes; en cualquier tipo de transacción, es fundamental tener en cuenta las especificaciones detalladas del producto durante las negociaciones, garantizando que cumpla con las expectativas y requerimientos de todas las partes involucradas.
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Trazabilidad de los Productos
+      h4.mb-0.ps-5.pe-5 Trazabilidad de los productos
 
     p.mb-4 La trazabilidad es un conjunto de procedimientos y herramientas tecnológicas que permiten conocer la ubicación y el recorrido de los productos a lo largo de toda la cadena de suministro, se clasifica en tres tipos principales:
 

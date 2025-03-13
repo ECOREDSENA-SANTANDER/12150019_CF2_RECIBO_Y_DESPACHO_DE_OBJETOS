@@ -145,7 +145,7 @@ export default {
     {
       tema: 'Manual de devoluciones y retiro de mercancía.',
       referencia:
-        'Comercial mexicana. (2015). manual de devoluciones y retiro de mercancía.',
+        'Comercial mexicana. (2015). Manual de devoluciones y retiro de mercancía.',
       tipo: 'Manual',
       link: 'http://www.provecomer.com.mx/prvd/manual_devol.pdf',
     },
@@ -265,7 +265,7 @@ export default {
       link: 'http://devolucioneslogisticainversa.blogspot.com.co/',
     },
     {
-      referencia: 'González, H. (2010). Devolución de mercancía.',
+      referencia: 'González, H. (2010). Manejo devoluciones.',
       link:
         'http://hildamarinagonzalez2010.blogspot.com.co/2010/09/causas-de-devoluciones.html',
     },
@@ -274,19 +274,16 @@ export default {
       link: 'http://www.crecenegocios.com/la-politica-de-devoluciones/',
     },
     {
-      referencia: 'Delgado, G. (2013). Clasificación de proveedores.',
-      link:
-        'http://logisticareciboydespacho.blogspot.com.co/2013/03/clasificacion- de-proveedores.html',
-    },
-    {
-      referencia: 'GestioPolis. (2002) ¿Qué es un acuerdo comercial?',
-      link: 'https://www.gestiopolis.com/que-es-un-acuerdo-comercial/',
-    },
-    {
       referencia:
         'Trejos, A. (2009). Instrumentos para la evaluación del impacto de acuerdos comerciales internacionales: aplicación para países pequeños en América latina. (Cepal, Ed.) México.',
       link:
         'http://repositorio.cepal.org/bitstream/handle/11362/4895/S2009441_es.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'K_Admin. (2021, 25 enero). Clasificación de proveedores ¿De qué tipo existen? Klötx.',
+      link:
+        'https://www.klotx.com/clasificacion-de-proveedores-de-que-tipo-existen/',
     },
   ],
   creditos: [
@@ -325,7 +322,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'DiseñadorA de contenidos digitales',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -349,7 +346,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Andrea Ardila Chaparro',
+          nombre: '',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

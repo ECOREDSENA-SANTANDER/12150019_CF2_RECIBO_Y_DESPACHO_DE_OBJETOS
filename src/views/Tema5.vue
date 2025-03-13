@@ -58,10 +58,8 @@
       .col-lg-11.col-md-10.mb-0
         p El proceso de devolución de productos en lotes o grandes cantidades requiere una coordinación detallada entre el cliente y el proveedor, a continuación se describen los pasos involucrados tanto para el cliente como para el proveedor:
     
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
+    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Proceso del cliente (despacho de la devolución)
-
-    p.mb-4 El proceso de devolución de productos en lotes o grandes cantidades requiere una coordinación detallada entre el cliente y el proveedor, a continuación se describen los pasos involucrados tanto para el cliente como para el proveedor:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-7.col-9.mb-4.mb-lg-0(data-aos="fade-right")
@@ -73,7 +71,7 @@
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Coordinar la devolución")
             p.mb-0 El cliente y el proveedor deben coordinar los detalles logísticos para la devolución de los artículos.
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Preparación de la mercancía")
-            p.mb-0 el cliente debe rotular adecuadamente los productos, incluyendo la referencia, la cantidad y el nombre del proveedor. Además, es importante alistar toda la documentación necesaria, asegurándose de que los productos ya hayan sido descargados del inventario para evitar que se utilicen en algún proceso interno.
+            p.mb-0 El cliente debe rotular adecuadamente los productos, incluyendo la referencia, la cantidad y el nombre del proveedor. Además, es importante alistar toda la documentación necesaria, asegurándose de que los productos ya hayan sido descargados del inventario para evitar que se utilicen en algún proceso interno.
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Coordinación de la entrega")
             p.mb-0 El cliente debe organizar la entrega de los productos al proveedor de acuerdo con las condiciones previamente acordadas.
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Entrega de artículos y documentos")
@@ -81,8 +79,6 @@
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.ps-5.pe-5 Proceso del proveedor (recepción de la devolución)
-
-    p.mb-4 El proceso de devolución de productos en lotes o grandes cantidades requiere una coordinación detallada entre el cliente y el proveedor, a continuación se describen los pasos involucrados tanto para el cliente como para el proveedor:
 
     .row.fondo6.align-items-center.p-2.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -137,7 +133,7 @@
           
             .bg11.p-4 
               .row.justify-content-center.align-items-center.mb-5
-                .col-lg-9
+                .col-lg-11
                   img(data-aos="zoom-in-left")(src='@/assets/curso/tema5/11.png' alt='Formulario para notificar la devolución de productos con detalles de la orden de compra y motivos de la devolución.')
               
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
@@ -158,7 +154,7 @@
                 img(alt="" src="@/assets/curso/tema5/12.png")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
-                p.mb-4 #[b Verificación de la mercancía:] La persona encargada de despachar la mercancía debe verificar el estado de los productos a devolver, en algunos casos, es necesario asegurarse de que el departamento de calidad haya realizado el informe y la revisión correspondientes antes de proceder.
+                p.mb-4 #[b Verificación de la mercancía:] la persona encargada de despachar la mercancía debe verificar el estado de los productos a devolver, en algunos casos, es necesario asegurarse de que el departamento de calidad haya realizado el informe y la revisión correspondientes antes de proceder.
               .col-lg-4.col-md-7
                 img(alt="" src="@/assets/curso/tema5/13.png")
             .row.justify-content-center.align-items-center.p-0.p-lg-4

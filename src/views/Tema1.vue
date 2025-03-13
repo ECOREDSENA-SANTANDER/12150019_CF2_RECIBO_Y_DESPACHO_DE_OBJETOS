@@ -17,8 +17,7 @@
           .p-4.h-100
             .row.align-items-center
               .col-12
-                .bg2.p-2.mb-2
-                  p.mb-0 #[b Concepto:]
+                p.mb-4 #[b Concepto:]
                 p.mb-3 Se refiere al proceso en el cual un producto es enviado de regreso al proveedor porque no cumple con las especificaciones acordadas, independientemente de si se ha realizado el pago o no; las devoluciones pueden originarse debido a diversas inconformidades con el producto que impiden que cumpla con los requisitos del cliente, entre las causas más comunes de devolución se incluyen:
                 .row.justify-content-center.mb-0
                   .col-lg-6.mb-0
@@ -247,7 +246,7 @@
             .titulo-sexto.color-secundario.mb-3
               h5 Figura 1. 
               | Notificación devolución de productos
-            img(src='@/assets/curso/tema1/16.png', alt='Un documento de notificación de devolución de productos con una lista de razones para la devolución, incluyendo mercancía en perfecto estado, averías, fecha de vencimiento, reposición y falta de espacio.')
+            img.img-a.img-t(src='@/assets/curso/tema1/16.png', alt='Un documento de notificación de devolución de productos con una lista de razones para la devolución, incluyendo mercancía en perfecto estado, averías, fecha de vencimiento, reposición y falta de espacio.')
 
 
       separador
