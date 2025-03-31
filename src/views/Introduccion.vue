@@ -25,8 +25,8 @@
           .col-lg-12
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2bDjgp4Qvks?si=8gZn3RflgZHn4PtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-              figcaption #[b Video. Marroquinería, el arte de crear en cuero]
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/7AN2i7NrysA?si=rWezaKKD518SRGMC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+              figcaption Gestión y condiciones de devolución de mercancías y objetos
 </template>
 
 <script>
