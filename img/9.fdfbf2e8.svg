@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.011" height="125.273" viewBox="0 0 124.011 125.273">
+  <defs>
+    <filter id="Elipse_11501" x="0" y="0" width="124.011" height="125.273" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_11501-2" x="0" y="0" width="124.011" height="125.273" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1100988" data-name="Grupo 1100988" transform="translate(-738.198 -5263.371)">
+    <g id="Grupo_1100207" data-name="Grupo 1100207" transform="translate(-174.135 4872.371)">
+      <g id="Grupo_1099492" data-name="Grupo 1099492" transform="translate(921.333 397)">
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_11501)">
+            <ellipse id="Elipse_11501-3" data-name="Elipse 11501" cx="53.005" cy="53.636" rx="53.005" ry="53.636" transform="translate(9 6)" fill="#a4a1c5"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_11501-2)">
+            <ellipse id="Elipse_11501-4" data-name="Elipse 11501" cx="53.005" cy="53.636" rx="53.005" ry="53.636" transform="translate(9 6)" fill="#fff"/>
+          </g>
+        </g>
+        <path id="desembalaje" d="M89.059,30.385,84.914,23.2a1.052,1.052,0,0,0-.385-.385l-9.771-5.641a15.422,15.422,0,1,0-30.643,0L34.344,22.82a1.052,1.052,0,0,0-.385.385l-4.146,7.18a1.052,1.052,0,0,0,.385,1.437l3.62,2.09V52.1a1.052,1.052,0,0,0,.526.911L58.91,67.192a1.052,1.052,0,0,0,1.052,0L84.529,53.009a1.052,1.052,0,0,0,.526-.911V33.912l3.62-2.09a1.052,1.052,0,0,0,.385-1.437ZM59.436,2.1A13.318,13.318,0,1,1,46.118,15.422,13.333,13.333,0,0,1,59.436,2.1ZM44.527,19.37a15.423,15.423,0,0,0,29.818,0L81.9,23.731,59.436,36.7,36.974,23.731ZM32.162,30.526l3.094-5.358L58,38.3l-3.094,5.358Zm3.76,4.6L54.765,46.006a1.052,1.052,0,0,0,1.437-.385l2.182-3.78V64.459L35.922,51.49ZM82.951,51.49,60.488,64.459V41.841l2.182,3.78a1.052,1.052,0,0,0,1.437.385L82.951,35.127ZM63.967,43.658,60.873,38.3,83.618,25.168l3.094,5.358ZM55.435,21.733a3.1,3.1,0,0,0,4.384,0c1.72-1.72,3.455-3.48,5.133-5.182q1.515-1.537,3.033-3.071A3.1,3.1,0,0,0,65.775,8.2a3.07,3.07,0,0,0-2.185.916l-5.971,6.03-2.338-2.338A3.1,3.1,0,0,0,50.9,17.2ZM52.385,14.3a1,1,0,0,1,1.409,0l3.085,3.085a1.052,1.052,0,0,0,.744.308h0a1.052,1.052,0,0,0,.745-.312L65.085,10.6a.991.991,0,0,1,1.4,0,1,1,0,0,1,0,1.4q-1.521,1.535-3.037,3.075c-1.675,1.7-3.408,3.456-5.122,5.171a1,1,0,0,1-1.409,0l-4.538-4.538a1,1,0,0,1,0-1.409Z" transform="translate(-6.431 19.97)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>
