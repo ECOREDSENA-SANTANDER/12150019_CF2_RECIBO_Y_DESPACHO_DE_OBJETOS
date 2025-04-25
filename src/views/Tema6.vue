@@ -17,7 +17,7 @@
           p.mb-0 La correcta gestión de las devoluciones no solo afecta los inventarios, sino que también tiene implicaciones financieras significativas, los ajustes necesarios en las cuentas deben ser realizados de acuerdo con el tipo de devolución, para asegurar la correcta conciliación de los movimientos y mantener la precisión en los registros contables y financieros, es fundamental que estos informes sean precisos y oportunos, facilitando así el análisis de las devoluciones y su impacto en los procesos operativos y financieros de la empresa.
 
       .titulo-sexto.color-secundario.mb-3
-        h5 Figura 6. 
+        h5 Figura 5. 
         | Informe registro de devoluciones
 
       .row.fondo4.p-4.p-lg-5.p-md-3.mb-1(data-aos="fade-down")

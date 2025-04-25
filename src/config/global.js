@@ -173,7 +173,7 @@ export default {
         'Colombia Compra Eficiente. (n.d.). Manual para el manejo de los Acuerdos Comerciales en Procesos de Contratación.',
       tipo: 'PDF',
       link:
-        'https://www.colombiacompra.gov.co/sites/default/files/manuales/cce_manual_acuerdos_comerciales_web.pdf',
+        'https://operaciones.colombiacompra.gov.co/sites/default/files/manuales/cce_manual_acuerdos_comerciales_web.pdf',
     },
   ],
   glosario: [
@@ -346,7 +346,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

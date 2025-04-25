@@ -24,9 +24,7 @@
  
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-10
-        .titulo-sexto.color-secundario.mb-4
-          h5 Figura 2. 
-          | Características de los acuerdo
+        
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-1.col-2.col-md-2.pe-0.ps-0.mb-4
             img(src='@/assets/curso/tema4/33.svg', alt='Diagrama comparativo que presenta ventajas y desventajas sobre un tema específico, con puntos clave como la mejora de producción, acceso a mercados, capital de inversión y devoluciones.') 
@@ -284,7 +282,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-8
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 3. 
+              h5 Figura 2. 
               | Proveedores normales
             img(src='@/assets/curso/tema4/23.png' alt="Documento que describe proveedores normales, indicando que no requieren registro en bases de datos y se seleccionan mediante cotizaciones.")
 
@@ -366,7 +364,7 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-10
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 4. 
+              h5 Figura 3. 
               | Procedimiento acuerdos con clientes
             img(src='@/assets/curso/tema4/33.png' alt="Documento que describe un procedimiento, indicando la importancia de comunicar los acuerdos con clientes a la persona de recibo para programar el trabajo y alistar áreas.")
 

@@ -182,44 +182,43 @@
       p.mb-4 Además, algunas negociaciones entre empresas permiten devoluciones en situaciones particulares como:
 
       .row.fondo3.p-4.p-lg-5.p-md-3.mb-5(data-aos="fade-down")
-        .col-lg-12.col-md-12.col-12
-          .row.justify-content-center    
+        .col-lg-12
            
-          .row.justify-content-center.mb-0
-            .col-lg-8.col-md-10.mb-4
-              SlyderF(columnas="col-lg-6 col-md-6 col-xl-6")
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+          .row.justify-content-center.align-items-center.mb-0
+            .col-lg-8.mb-4
+              SlyderF.custom(columnas="col-lg-6 col-md-6 col-xl-6")
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/10.svg' alt='AvatarTop')
                   p.mb-5.text-center(data-aos="fade-right") #[b Finalización de eventos o temporadas:] como eventos especiales, aniversarios, temporada navideña, temporada escolar, entre otros.
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/11.svg' alt='AvatarTop')
                   p.mb-5.text-center(data-aos="fade-right") #[b Exceso de inventario:] cuando las ventas no alcanzan las expectativas y los productos permanecen sin vender.
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/12.svg' alt='AvatarTop')
                   p.mb-5.text-center(data-aos="fade-right") #[b Cambio de presentación del producto:] cuando el cliente prefiere una presentación diferente de la misma mercancía.
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/13.svg' alt='AvatarTop')
                   p.mb-5.text-center(data-aos="fade-right") #[b Mercancía pasada de moda o de colecciones anteriores:] por ejemplo, ropa, maletas, loncheras u otros artículos que ya no están en demanda.
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/14.svg' alt='AvatarTop')
                   p.mb-5.text-center(data-aos="fade-right") #[b Averías en productos:] defectos como roturas, fisuras en artículos plásticos o cerámicos, o daños en el empaque.
-                .tarjeta.tarjeta--slyder.b2.p-2.p-lg-4.p-md-3
+                .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                   .row.justify-content-center.mb-3
                     .col-8.my-4
                       img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema1/15.svg' alt='AvatarTop')
                   p.mb-0.text-center(data-aos="fade-right") #[b Mercancía para reprocesos:] en algunas ocasiones, los reprocesos se realizan en las instalaciones del cliente para evitar costos adicionales, como transporte. Esto puede incluir el cambio de empaque o la creación de ofertas.
-            .col-lg-4.col-md-7.col-9
-              img(src='@/assets/curso/tema1/8.svg', alt='')
+            .col-lg-4.col-md-6.col-7
+              img.mb-0(src='@/assets/curso/tema1/8.svg', alt='')
             
       .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
         h4.mb-0.ps-5.pe-5 Tipos de devolución
@@ -314,7 +313,7 @@
               p.mb-4 Son aquellos que, aunque pueden variar en ciertos aspectos como color, talla o marca, mantienen la misma calidad y características generales.
             .row.col-xl-11.m-auto(titulo="Devolución por falta de espacio del cliente")
               p.mb-4 Este acuerdo se establece entre el proveedor y el cliente, y determina que, en caso de que el cliente no tenga espacio suficiente para almacenar los productos, se especificará quién asumirá el costo del retorno de la mercancía.
-        .col-lg-3.col-md-7.col-8
+        .col-lg-3.col-md-5.col-7
           img(src='@/assets/curso/tema1/22.png', alt='')
            
 

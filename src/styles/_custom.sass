@@ -136,10 +136,8 @@ figcaption
 .tarjeta--slyder.b1
   background-color: #F2F8FE
   height: 100%
-  box-shadow: 0 5px 6px rgba(0,0,0,0.23), 0 5px 6px rgba(0,0,0,0.23)
+  box-shadow:  0px 0px 10px 5px rgba(0, 0, 0, 0.09)
 
-.tarjeta--slyder.b2
-  background-color: #E4F1FD
 
 .custom
   .horizontal-scroll__wrapper
@@ -273,7 +271,7 @@ figcaption
 
 .bg77
   background-color: #CAE2FB
-  box-shadow: 0px 0px 15px 0px rgba(0,0,0,.3)
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.09)
   border-radius: 15px
 
 
@@ -348,13 +346,18 @@ figcaption
   background-size: 100% 100%
   background-repeat: no-repeat
   background-position: center 
-
+  @media only screen and (max-width: 767px)
+    background-image: url('../assets/curso/tema7/ult.png') !important
+    background-repeat: no-repeat 
+    background-size: 100% 100%
+    background-position: cover
+    
 .fa-location-dot.t2
   color: #496F93
 
 .fondo6
   background: url('../assets/curso/tema5/fondo6.png')
-  background-size: 100% 66.8%
+  background-size: 100% 70%
   background-repeat: no-repeat
   background-position: center 
   margin-inline: -3.4rem

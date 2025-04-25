@@ -87,7 +87,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.col-md-7.col-9.mb-4
             img(src='@/assets/curso/tema5/5.png', alt='')
-          .col-lg-8.col-md-10
+          .col-lg-8
             SlyderF.custom(columnas="col-lg-6 col-md-6 col-xl-6")
               .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                 .row.justify-content-center.mb-3
@@ -128,7 +128,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-9
             .titulo-sexto.color-secundario.mb-4
-              h5 Figura 5. 
+              h5 Figura 4. 
               | Formato de devolución de productos
           
             .bg11.p-4 

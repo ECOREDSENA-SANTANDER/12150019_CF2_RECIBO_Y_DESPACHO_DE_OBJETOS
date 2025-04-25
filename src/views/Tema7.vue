@@ -60,12 +60,12 @@
               .bg11.p-4.mb-4  
                 p.mb-0 El manejo de reclamos requiere la implementación de una política clara que guíe los pasos a seguir cuando se presente uno, esta política debe centrarse en el cliente y ser conocida por todos los empleados, además, debe haber un equipo de recursos humanos y técnicos dedicado exclusivamente a la gestión de reclamos.
 
-      p.mb-5 Es fundamental que, al adquirir un producto, los clientes reciban información clara sobre el proceso de reclamación, que debe incluir los siguientes aspectos:
+      p.mb-4 Es fundamental que, al adquirir un producto, los clientes reciban información clara sobre el proceso de reclamación, que debe incluir los siguientes aspectos:
 
-      .row.justify-content-center.mb-3
-        .col-lg-4.col-md-7.col-9.mb-4
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-4.col-md-6.col-7.mb-4
           img(src='@/assets/curso/tema7/7.png', alt='')
-        .col-lg-8.col-md-10.mb-4
+        .col-lg-8.mb-4
           SlyderF.custom(columnas="col-lg-6 col-md-6 col-xl-6")
             .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
               .row.justify-content-center.mb-3
@@ -127,15 +127,10 @@
           .bg13.p-4
             img.img-a.img-t.move(src='@/assets/curso/tema7/10.svg' alt='')
             p.mb-0.text-center Este proceso busca asegurar que todos los reclamos sean tratados de manera justa, eficiente y con el enfoque centrado en la satisfacción del cliente.
-
+        
       .row.justify-content-center(data-aos="fade-down").mb-0
-        .col-lg-8.mb-4
-          .titulo-sexto.color-secundario.mb-0
-            h5 Figura 7. 
-            | Pautas para minimizar y atender reclamaciones
-      .row.justify-content-center(data-aos="fade-down").mb-0
-        .col-lg-8.mb-4
-          .bg14.p-2.p-lg-5.p-md-4.pe-4.pe-lg-5(,alt='Documento con pautas para minimizar y atender reclamaciones, enfatizando la importancia de acciones correctivas y la comunicación con el cliente.')
+        .col-lg-9.mb-4
+          .bg14.p-3.p-lg-5.p-md-4.pe-4.pe-lg-5(,alt='Documento con pautas para minimizar y atender reclamaciones, enfatizando la importancia de acciones correctivas y la comunicación con el cliente.')
             p.mb-4.ps-4.ps-lg-5.mt-4 Una manera de minimizar la reclamaciones, es que la organización con base en los informes, genere acciones correctivas, preventivas y de mejora, y que estas acciones sean comunicadas al personal que se encuentra directamente relacionado con el proceso. Por lo tanto, en resumen, para atender un reclamo se debe:
             ul.lista-ul.mb-0.ps-4.ps-lg-5.pe-4.pe-lg-5
               li.d-flex.mb-0
@@ -153,7 +148,7 @@
               li.d-flex.mb-0
                 i.fas.fa-location-dot.t2
                 p.mb-0 Aceptar si discusión la reclamación.
-            .row.justify-content-center.ps-4.ps-lg-5
+            .row.justify-content-center.ps-4.ps-lg-5.mb-0
               .col-lg-10.mb-4
                 ul.lista-ul.mb-0 
                   li.d-flex.mb-0
@@ -163,10 +158,7 @@
                     i.fas.fa-location-dot.t2
                     p.mb-0 Asegurar que la respuesta dada al cliente la genere satisfacción.
               .col-lg-2
-                img.img-a.img-t.mb-5(src='@/assets/curso/tema7/12.svg' alt='')
-
-
-
+                img.img-a.img-t.mb-4(src='@/assets/curso/tema7/12.svg' alt='')
 
 
 </template>
