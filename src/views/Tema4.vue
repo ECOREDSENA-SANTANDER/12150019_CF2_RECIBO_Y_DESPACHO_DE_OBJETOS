@@ -27,7 +27,7 @@
         
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-1.col-2.col-md-2.pe-0.ps-0.mb-4
-            img(src='@/assets/curso/tema4/33.svg', alt='Diagrama comparativo que presenta ventajas y desventajas sobre un tema específico, con puntos clave como la mejora de producción, acceso a mercados, capital de inversión y devoluciones.') 
+            img(src='@/assets/curso/tema4/33.svg', alt='') 
           .col-lg-11.col-md-10.ps-0
             .bg16.p-3.mb-2
               ul.lista-ul.mb-0

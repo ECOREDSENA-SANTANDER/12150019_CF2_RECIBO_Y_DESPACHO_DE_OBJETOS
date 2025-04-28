@@ -130,7 +130,7 @@
         
       .row.justify-content-center(data-aos="fade-down").mb-0
         .col-lg-9.mb-4
-          .bg14.p-3.p-lg-5.p-md-4.pe-4.pe-lg-5(,alt='Documento con pautas para minimizar y atender reclamaciones, enfatizando la importancia de acciones correctivas y la comunicación con el cliente.')
+          .bg14.p-3.p-lg-5.p-md-4.pe-4.pe-lg-5(,alt='')
             p.mb-4.ps-4.ps-lg-5.mt-4 Una manera de minimizar la reclamaciones, es que la organización con base en los informes, genere acciones correctivas, preventivas y de mejora, y que estas acciones sean comunicadas al personal que se encuentra directamente relacionado con el proceso. Por lo tanto, en resumen, para atender un reclamo se debe:
             ul.lista-ul.mb-0.ps-4.ps-lg-5.pe-4.pe-lg-5
               li.d-flex.mb-0
