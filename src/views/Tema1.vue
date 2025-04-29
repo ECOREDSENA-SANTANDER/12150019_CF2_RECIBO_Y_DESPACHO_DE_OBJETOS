@@ -12,7 +12,7 @@
       .row.justify-content-center.mb-5
         .col-lg-4.col-md-7.col-9.pe-lg-0.mb-lg-0.mb-4(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/tema1/2.svg', alt='')
+            img.d-none.d-lg-block(src='@/assets/curso/tema1/2.svg', alt='')
         .col-lg-8.bg1.ps-lg-0(data-aos="fade-right")
           .p-4.h-100
             .row.align-items-center
