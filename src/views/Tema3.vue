@@ -27,8 +27,12 @@
 
     p.mb-5 Las políticas de devolución también pueden abordar aspectos relacionados con la recolección de productos defectuosos o dañados, los costos asociados a la devolución (si los tiene), y las situaciones excepcionales que podrían no ser elegibles para una devolución, como productos personalizados, artículos en descuento o productos perecederos.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Beneficios de las políticas de devolución
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Beneficios de las políticas de devolución
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -43,8 +47,12 @@
       .col-lg-3.col-md-5.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema3/4.png', alt='tema1')(data-aos="fade-down")
       
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Difusión de la política de devolución
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Difusión de la política de devolución
      
     p.mb-4 Una vez que la política ha sido definida, es crucial que se difunda de manera efectiva tanto interna como externamente:
 
@@ -70,8 +78,12 @@
 
     p.mb-5 Al garantizar que todos los involucrados comprendan y tengan acceso a la política, se minimizan malentendidos y se optimiza la experiencia de compra y postventa, la claridad en los términos y la transparencia en los procesos son claves para mantener una relación positiva con los clientes y fortalecer la reputación de la empresa.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Revisión y actualización de la política
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Revisión y actualización de la política
 
     .row.justify-content-center.align-items-center
       .col-lg-5.col-md-7.col-9.mb-3

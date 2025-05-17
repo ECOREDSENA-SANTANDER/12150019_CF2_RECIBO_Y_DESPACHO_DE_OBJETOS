@@ -18,15 +18,28 @@
                 img.img-a.img-t(src='@/assets/curso/tema7/2.svg', alt='tema1')(data-aos="fade-down")
               .col-lg-10.col-md-12
                 p.mb-0 La atención al cliente puede realizarse de varias maneras entre las que se pueden tener en cuenta las siguientes:
-            p.mb-0 Personalmente: en oficinas o puntos de información dependiendo el tipo de negocio.
-            p.mb-0 Por teléfono.
-            p.mb-0 Por medio del correo electrónico.
-            p.mb-0 Por chat en línea.
+            ul.lista-ul.mb-0
+              li.d-flex.mb-0
+                i.fas.fa-location-dot.t2
+                p.mb-0  Personalmente: en oficinas o puntos de información dependiendo el tipo de negocio.
+              li.d-flex.mb-0
+                i.fas.fa-location-dot.t2
+                p.mb-0 Por teléfono.
+              li.d-flex.mb-0
+                i.fas.fa-location-dot.t2
+                p.mb-0 Por medio del correo electrónico.
+              li.d-flex.mb-0
+                i.fas.fa-location-dot.t2
+                p.mb-0 Por chat en línea.
         
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9
-          .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-            h4.mb-0.ps-5.pe-5 Manejo de quejas y reclamos
+          .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+            .col-auto.ps-2.pe-0
+              img(src='@/assets/curso/tema1/sub.svg', alt='')
+            .col.ps-0
+              .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+                h3.mb-0 Manejo de quejas y reclamos
           p.mb-4 El manejo adecuado de quejas y reclamos requiere que las organizaciones cuenten con personal capacitado y especializado en la atención de estos temas, este personal debe recibir formación continua para poder ofrecer respuestas oportunas y satisfactorias a los inconvenientes planteados por los clientes.
           p.mb-4 Algunas empresas disponen de un departamento exclusivo para el servicio al cliente, pero todos los colaboradores deben estar preparados para proporcionar una respuesta inicial o dirigir al cliente hacia la persona correspondiente que pueda resolver su inquietud.
         .col-lg-3.col-md-5.col-7
@@ -147,7 +160,7 @@
                 p.mb-0 Ofrecer una disculpa, esto hace que el cliente sienta que es tenido en cuenta.
               li.d-flex.mb-0
                 i.fas.fa-location-dot.t2
-                p.mb-0 Aceptar si discusión la reclamación.
+                p.mb-0 Aceptar sin discusión la reclamación.
             .row.justify-content-center.ps-4.ps-lg-5.mb-0
               .col-lg-10.mb-4
                 ul.lista-ul.mb-0 
@@ -156,7 +169,7 @@
                     p.mb-0 Solucionar en el menor tiempo posible.
                   li.d-flex.mb-0
                     i.fas.fa-location-dot.t2
-                    p.mb-0 Asegurar que la respuesta dada al cliente la genere satisfacción.
+                    p.mb-0 Asegurar que la respuesta dada al cliente le genere satisfacción.
               .col-lg-2
                 img.img-a.img-t.mb-4(src='@/assets/curso/tema7/12.svg' alt='')
 

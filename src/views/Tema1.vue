@@ -39,9 +39,13 @@
                       li.d-flex.mb-0
                         i.fas.fa-location-dot
                         p.mb-0 Averías (incluyendo aquellas causadas durante el transporte).
-      
-      .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Características de las devoluciones
+
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Características de las devoluciones
 
       p.mb-4 Es importante señalar que las devoluciones no implican necesariamente la restitución del dinero, depende de los acuerdos establecidos en la negociación, el cliente puede optar por cambiar el producto por otro de las mismas características o de características similares; en cualquier tipo de transacción comercial, es fundamental que se establezcan claramente las condiciones bajo las cuales el cliente podrá realizar una reclamación o devolución de mercancía.
 
@@ -75,8 +79,12 @@
           p.mb-3 Una característica destacada es que cada empresa o establecimiento define sus propias políticas respecto a las devoluciones y cambios, que pueden incluir el reembolso del dinero, el cambio por un producto similar o incluso otros productos.
           p.mb-0 En el caso de devoluciones entre empresas, estas dependen en gran medida de los términos acordados durante la negociación, por ello, es común que los proveedores adjunten informes de calidad junto con la entrega de los productos, especialmente para los lotes que entregan a sus compradores.
 
-      .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Causales de devolución
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Causales de devolución
 
       .row.fondo2.align-items-center.p-2.mb-0(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -157,9 +165,13 @@
                 li.d-flex.mb-0
                   i.fas.fa-location-dot
                   p.mb-0 El empaque de los productos dificulta su manipulación.
-
-      .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Causales específicas según el tipo de producto
+      
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Causales específicas según el tipo de producto
 
       .row.justify-content-center.mb-2(data-aos="fade-left")
         .col-lg-5.col-md-6.mb-4
@@ -220,8 +232,12 @@
             .col-lg-4.col-md-6.col-7
               img.mb-0(src='@/assets/curso/tema1/8.svg', alt='')
             
-      .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Tipos de devolución
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Tipos de devolución
           
       p.mb-4 Existen diversos tipos de devoluciones, según el contexto de la transacción:
       
@@ -268,13 +284,21 @@
             .tarjeta.color-acento-botones.bg5.p-4(titulo="Opciones de reembolso")
               p.mb-0 #[b Opciones de reembolso:] es necesario especificar si el cliente recibirá un reembolso, si el producto será reemplazado por uno idéntico, similar o por otro diferente, y si en algún caso el cliente deberá pagar la diferencia en caso de elegir un producto de mayor valor.
         
-      .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Trámites de devolución
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Trámites de devolución
       
       p.mb-4 Los trámites de devolución deben llevarse a cabo siguiendo los acuerdos comerciales, los términos de negociación y las políticas internas de la organización; al realizar estos trámites de acuerdo con los parámetros establecidos, se minimizarán los riesgos de inconvenientes con los inventarios y se mantendrá una buena relación con los clientes.
 
-      .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Procedimiento
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Procedimiento
       
       p.mb-4 Los procedimientos de devolución varían según el tipo de negociación, las características de los productos y otros factores, a continuación, se detallan los principales casos de devolución:
 

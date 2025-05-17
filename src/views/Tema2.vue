@@ -13,13 +13,21 @@
       .col-lg-11.col-md-10.mb-3
         p.mb-0 Las especificaciones de los productos son aquellas características tanto tangibles como intangibles que permiten al consumidor identificar un producto y satisfacer sus necesidades, ya sea de forma individual o empresarial, estas especificaciones incluyen aspectos como la forma, el color, el tamaño, el olor, el empaque, la funcionalidad, el diseño y las horas de utilización; en este sentido, no solo se consideran las propiedades físicas del producto, sino también los beneficios que este ofrece al consumidor.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Características físicas
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Características físicas
 
     p.mb-5 Son aquellas cualidades que se perciben a través de los sentidos, tales como el olor, el sabor, la textura y el color.
 
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Características funcionales
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0  Características funcionales
 
     .cont_5_1.mt-4(data-aos="fade-left").mb-5
       .row.justify-content-center
@@ -50,21 +58,33 @@
     
     .row.justify-content-center.align-items-center
       .col-lg-8
-        .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-          h4.mb-0.ps-5.pe-5 Características psicológicas
+        .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+          .col-auto.ps-2.pe-0
+            img(src='@/assets/curso/tema1/sub.svg', alt='')
+          .col.ps-0
+            .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+              h3.mb-0  Características psicológicas
         
         p.mb-5 Estas están relacionadas con la marca. A menudo, los consumidores recuerdan y se fidelizan con marcas específicas, lo que influye en sus decisiones de compra y preferencia a largo plazo.
 
-        .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-          h4.mb-0.ps-5.pe-5 Características químicas
-        
+        .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+          .col-auto.ps-2.pe-0
+            img(src='@/assets/curso/tema1/sub.svg', alt='')
+          .col.ps-0
+            .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+              h3.mb-0  Características químicas
+          
         p.mb-4 Estas incluyen propiedades como la corrosión, las propiedades nutricionales, las propiedades absorbentes, entre otras, que son cruciales dependiendo del tipo de producto.
         p.mb-4 De esta manera, las especificaciones de los productos no solo cubren sus características físicas y funcionales, sino también aquellos elementos psicológicos y químicos que pueden determinar su éxito en el mercado.
       .col-lg-4.col-md-7.col-9.mb-5
         img(src='@/assets/curso/tema2/5.png' alt="")
     
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Otras características a considerar
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Otras características a considerar
 
     .row.justify-content-center.mb-2(data-aos="fade-left")
       .col-lg-5.col-md-6.mb-4
@@ -86,8 +106,12 @@
 
     p.mb-5 Es importante también considerar las especificaciones de los productos, ya sea para el consumidor final o para consumidores industriales, en el caso de los productos destinados a la industria, como las materias primas, que permiten, a través de procesos de fabricación, crear objetos que satisfacen las necesidades específicas de ciertos clientes; en cualquier tipo de transacción, es fundamental tener en cuenta las especificaciones detalladas del producto durante las negociaciones, garantizando que cumpla con las expectativas y requerimientos de todas las partes involucradas.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Trazabilidad de los productos
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Trazabilidad de los productos
 
     p.mb-4 La trazabilidad es un conjunto de procedimientos y herramientas tecnológicas que permiten conocer la ubicación y el recorrido de los productos a lo largo de toda la cadena de suministro, se clasifica en tres tipos principales:
 

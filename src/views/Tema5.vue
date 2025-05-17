@@ -9,8 +9,12 @@
     
     p.mb-5 Los procedimientos de devolución varían según las políticas de cada organización y, como se ha mencionado a lo largo del material, dependen de los acuerdos comerciales establecidos. A continuación, se detallan los pasos generales para la devolución de productos desde el cliente final al proveedor, como en el caso de un almacén de cadena o tienda por departamentos:
 
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Proceso de devolución por parte del cliente
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Proceso de devolución por parte del cliente
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-md-6.mb-4
@@ -32,8 +36,12 @@
             h5.text-center.mb-0 Esperar respuesta o cambio del producto
           p.mb-p.text-center El cliente debe esperar la respuesta del establecimiento, ya sea para obtener un cambio de producto o recibir la devolución.
 
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Proceso de recepción y manejo de la devolución
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Proceso de recepción y manejo de la devolución
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-3.col-md-6.col-7.mb-4
@@ -49,8 +57,12 @@
           .row.col-xl-11.m-auto(titulo="Producto defectuoso o averiado")
             p.mb-0 Si el producto presenta un defecto o avería, se debe investigar la causa del problema; si se determina que el daño es responsabilidad del almacén, el producto debe ser cambiado por uno nuevo, en este caso, se debe registrar la salida del producto defectuoso en el sistema y colocarlo en un área separada para su posterior revisión, este producto no puede ser devuelto al inventario a menos que cuente con un código específico para productos defectuosos.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Devoluciones de clientes a proveedores (lotes o grandes cantidades)
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0.mx-1 Devoluciones de clientes a proveedores (lotes o grandes cantidades)
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-md-2.col-4.mb-3
@@ -58,8 +70,12 @@
       .col-lg-11.col-md-10.mb-0
         p El proceso de devolución de productos en lotes o grandes cantidades requiere una coordinación detallada entre el cliente y el proveedor, a continuación se describen los pasos involucrados tanto para el cliente como para el proveedor:
     
-    .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Proceso del cliente (despacho de la devolución)
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Proceso del cliente (despacho de la devolución)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-7.col-9.mb-4.mb-lg-0(data-aos="fade-right")
@@ -77,8 +93,12 @@
           .tarjeta.color-acento-botones.bg5.p-4(titulo="Entrega de artículos y documentos")
             p.mb-0 El cliente entrega los artículos de devolución junto con los documentos pertinentes que respalden la transacción.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Proceso del proveedor (recepción de la devolución)
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Proceso del proveedor (recepción de la devolución)
 
     .row.fondo6.align-items-center.p-2.mb-0(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -136,8 +156,12 @@
                 .col-lg-11
                   img(data-aos="zoom-in-left")(src='@/assets/curso/tema5/11.png' alt='Formulario para notificar la devolución de productos con detalles de la orden de compra y motivos de la devolución.')
               
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Alistamiento de productos a devolver
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Alistamiento de productos a devolver
     
     p.mb-4 El alistamiento de los productos a devolver es un proceso tan crucial como el de los pedidos normales que serán despachados, es fundamental tener en cuenta los siguientes aspectos:
 

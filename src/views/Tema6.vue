@@ -28,8 +28,13 @@
             .col-lg-11
               img(src='@/assets/curso/tema6/3.svg', alt='Diagrama de flujo que detalla el "Informe Registro de Devoluciones", incluyendo definiciones de devoluciones, tipos (proveedores, garantía, tienda, consumidor, clientes, mercancía), y políticas de gestión de devoluciones, con texto legible en cada sección.')
       figcaption.mb-5 Fuente. Mercadotecnia y comunicación corporativa 
-      .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
-        h4.mb-0.ps-5.pe-5 Tipos de informes
+      
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+        .col-auto.ps-2.pe-0
+          img(src='@/assets/curso/tema1/sub.svg', alt='')
+        .col.ps-0
+          .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h3.mb-0 Tipos de informes
       
       .row.fondo2.align-items-center.p-2.mb-0(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -53,8 +58,12 @@
                 img.img-a.img-t.mb-4(src='@/assets/curso/tema6/7.svg', alt='tema1')
                 p.mb-4.text-center #[b d) Informes financieros de devoluciones:] enfocados en el impacto económico de las devoluciones, incluyendo los costos asociados.
     
-          .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-            h4.mb-0.ps-5.pe-5 Importancia de los informes sobre devoluciones
+          .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+            .col-auto.ps-2.pe-0
+              img(src='@/assets/curso/tema1/sub.svg', alt='')
+            .col.ps-0
+              .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+                h3.mb-0 Importancia de los informes sobre devoluciones
     
           p.mb-4 #[b Control de Inventarios:] ayudan a gestionar y ajustar el inventario, especialmente cuando los productos devueltos pueden ser revendidos.
 

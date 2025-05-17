@@ -17,8 +17,12 @@
 
     p.mb-5 Estos acuerdos están diseñados para apoyar las estrategias de negocio de las partes involucradas, buscando una integración efectiva entre ellas.
 
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Características de los acuerdos
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Características de los acuerdos
     
     p.mb-4 Las características de los acuerdos comerciales varían según el tipo de acuerdo y las partes involucradas. Sin embargo, todos comparten el objetivo común de establecer términos claros que aseguren una relación comercial eficiente y beneficiosa para ambas partes.
  
@@ -36,7 +40,7 @@
                   p.mb-0 Permite mejorar la producción para generar innovación y optimizar calidad.
                 li.d-flex.mb-0
                   i.fas.fa-location-dot.t3
-                  p.mb-0 Permite el acceso a diferente tipos de mercado.
+                  p.mb-0 Permite el acceso a diferentes tipos de mercado.
             .bg16.p-3.mb-0
               ul.lista-ul.mb-0
                 li.d-flex.mb-0
@@ -123,8 +127,12 @@
             i.fas.fa-location-dot.t3
             p.mb-0 Documentación requerida por las aduanas de ambos países involucrados en la transacción.
     
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Procedimiento para realizar acuerdos comerciales con clientes
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0.mx-1 Procedimiento para realizar acuerdos comerciales con clientes
     
     p.mb-4 Para formalizar los acuerdos comerciales con los clientes, se deben seguir los siguientes pasos generales:
 
@@ -204,8 +212,12 @@
                   img.img-a.img-t.mb-0(src='@/assets/curso/tema4/11.svg', alt='tema1')(data-aos="fade-down")
 
     
-    .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
-      h4.mb-0.ps-5.pe-5 Características de los proveedores
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-auto.ps-2.pe-0
+        img(src='@/assets/curso/tema1/sub.svg', alt='')
+      .col.ps-0
+        .sub.p-2.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+          h3.mb-0 Características de los proveedores
     
     p.mb-4 Los proveedores deben clasificarse de acuerdo con el nivel de respuesta ante las necesidades, a continuación se detallan los siguientes: 
 
@@ -255,24 +267,24 @@
             .crd_hover_txt--img
               figure
                 img(src='@/assets/curso/tema4/20.png' alt="")
-            .crd_hover_txt--body.colt
-              h5.mb-3.text-center Lugar de entrega
+            .crd_hover_txt--body.colt.p-3
+              h5.mb-3.text-center.my-2 Lugar de entrega
               p.mb-0.text-center.mb-0.txp1 Según lo acordado en la negociación, se debe definir si el proveedor entregará el producto directamente en las instalaciones de la empresa o si será necesario que se realice la recogida. En el caso de productos importados, es importante determinar si la mercancía será recibida en el puerto o si se incluirá la entrega hasta la planta. Esta información debe especificarse claramente y ser comunicada de manera precisa a la persona encargada de recibir la mercancía.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
             .crd_hover_txt--img
               figure
                 img(src='@/assets/curso/tema4/21.png' alt="")
-            .crd_hover_txt--body.colt
-              h5.mb-3.text-center Entrega parcial o total
+            .crd_hover_txt--body.colt.p-3
+              h5.mb-3.text-center.my-2 Entrega parcial o total
               p.mb-0.text-center.mb-0.txp1 Al igual que con el lugar de entrega, es fundamental que la persona encargada de recibir el producto esté informada sobre las fechas y las cantidades de entrega previstas. Además, se debe acordar si las entregas serán parciales o si se realizará una entrega total.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
             .crd_hover_txt--img
               figure
                 img(src='@/assets/curso/tema4/22.png' alt="")
-            .crd_hover_txt--body.colt
-              h5.mb-3.text-center Especificaciones del material o producto
+            .crd_hover_txt--body.colt.p-lg-3.p-md-2.p-3
+              h5.mb-3.text-center.my-2 Especificaciones del material o producto
               p.mb-0.text-center.mb-0.txp1 Es necesario detallar las condiciones de almacenamiento, descarga, empaque y manipulación de los productos. Estos aspectos son cruciales para asegurar que los productos se reciban en óptimas condiciones y para evitar posibles daños durante el proceso de recepción y almacenamiento.
     
     .row.fondo9.align-items-center.p-2.mb-0(data-aos="fade-down")
