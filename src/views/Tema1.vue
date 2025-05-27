@@ -51,8 +51,8 @@
 
       p.mb-4 #[b Para que se proceda con un cambio, deben cumplirse los siguientes puntos:]
 
-      .tarjeta--container.row.mb-5
-        .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5(data-aos="fade-right")
+      .tarjeta--container.row.mb-4.mb-lg-5
+        .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-right")
           .row.justify-content-center.mb-4
             .col-12
               .row.align-items-center
@@ -61,7 +61,7 @@
                 .col-lg-9
                   h3.mb-4 A) Producto que no cumple con las especificaciones anunciadas:
               p.mb-0 Tanto en negociaciones mayoristas como minoristas, el cliente tiene derecho a solicitar el cambio de las unidades defectuosas por otras de la misma referencia, o incluso exigir la devolución del dinero, en el caso de transacciones entre empresas, generalmente se opta por el cambio de los productos defectuosos, pero también se pueden negociar beneficios adicionales, como descuentos sobre el valor de los productos.
-        .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5(data-aos="fade-left")
+        .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-left")
           .row.justify-content-center.mb-1
             .col-12
               .row.align-items-center
@@ -90,7 +90,7 @@
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center
           
-          p.mb-5 Las causas por las cuales se puede solicitar la devolución de un producto incluyen las siguientes:
+          p.mb-4 Las causas por las cuales se puede solicitar la devolución de un producto incluyen las siguientes:
 
           .row.justify-content-center.mb-0
             .col-lg-4.mb-3
@@ -128,7 +128,7 @@
                 li.d-flex.mb-0
                   i.fas.fa-location-dot
                   p.mb-0 Unidad de empaque distinta a la previamente acordada.
-            .col-lg-4.col-md-7.col-9.mb-3
+            .col-lg-4.col-md-6.col-7.mb-3
               img(src='@/assets/curso/tema1/5.png', alt='')
             .col-lg-4.mb-3
               ul.lista-ul

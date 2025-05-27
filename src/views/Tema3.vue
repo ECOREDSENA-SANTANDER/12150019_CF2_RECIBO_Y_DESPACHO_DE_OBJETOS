@@ -57,7 +57,7 @@
     p.mb-4 Una vez que la política ha sido definida, es crucial que se difunda de manera efectiva tanto interna como externamente:
 
     .tarjeta--container.row.mb-4
-      .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5(data-aos="fade-right")
+      .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-right")
         .row.justify-content-center.mb-4
           .col-12
             .row.align-items-center
@@ -66,7 +66,7 @@
               .col-lg-9
                 h3.mb-4 Internamente:
             p.mb-0 Todos los empleados deben estar capacitados para entender y aplicar correctamente la política de devolución, esto incluye a personal de atención al cliente, vendedores, personal de almacén y cualquier otro miembro de la empresa que pueda estar involucrado en el proceso, la capacitación debe ser continua para mantener a todos al tanto de posibles cambios en las políticas.
-      .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5(data-aos="fade-left")
+      .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-left")
         .row.justify-content-center.mb-1
           .col-12
             .row.align-items-center
